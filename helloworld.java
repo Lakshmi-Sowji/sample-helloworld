@@ -5,7 +5,7 @@ class Helloworld {
 	System.out.println ("Hello, World");
 	System.out.println ("Hello Sravani");
 	System.out.println (" HELLO Sowjanya");
-	System.out.println (" HELLO Sowjanya");
+	System.out.println (" HELLO Sravani");
 	
 	}
 }
